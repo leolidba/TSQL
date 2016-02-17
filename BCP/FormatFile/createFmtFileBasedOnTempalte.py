@@ -2,7 +2,7 @@ import sys, os, re
 
 if (len(sys.argv) != 4):
     print "Syntax : python {} {} {} {}".format (sys.argv[0], "ApiEntry", "encoding", "templateFile")
-    print "    eg : python {} {} {} {}".format (sys.argv[0], "invoice-headers", "UTF-16le", "template-unicode-le.fmt")
+    print "    eg : python {} {} {} {}".format (sys.argv[0], "roles", "UTF-16le", "Template_LE.fmt")
     exit()
 
 ApiEntry = sys.argv[1]
