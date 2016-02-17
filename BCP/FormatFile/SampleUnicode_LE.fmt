@@ -1,0 +1,4 @@
+11.0
+2
+1       SQLNCHAR            0       0     "<\0i\0n\0v\0o\0i\0c\0e\0-\0h\0e\0a\0d\0e\0r\0s\0 \0t\0y\0p\0e\0=\0\"\0a\0r\0r\0a\0y\0\"\0>\0"                                   0     xmlcol           SQL_Latin1_General_CP1_CI_AS
+2       SQLNCHAR            0       0     "<\0/\0i\0n\0v\0o\0i\0c\0e\0-\0h\0e\0a\0d\0e\0r\0s\0>\0\r\0\n\0"                                   1     xmlcol           SQL_Latin1_General_CP1_CI_AS
